@@ -2,7 +2,9 @@ meteor-crudform
 ===============
 
 Author: Ross Peoples (deejross)
+
 Email: ross.peoples@gmail.com
+
 
 BETA
 ----
