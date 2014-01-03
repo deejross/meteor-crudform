@@ -1,0 +1,14 @@
+.crud-field-list div {
+    margin: 0.25em 0;
+}
+
+.crud-field-list input {
+    display: inline;
+    width: 88%;
+    margin-right: 3px;
+}
+
+.crud-field-list .handle {
+    width: 4%;
+    cursor: move;
+}
