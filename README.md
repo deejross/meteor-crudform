@@ -1,6 +1,9 @@
 meteor-crudform
 ===============
 
+Author: Ross Peoples (deejross)
+Email: ross.peoples@gmail.com
+
 BETA
 ----
 This is a newly-released package that was built for a single project, then turned into its own package. There are some things that might not work properly.
